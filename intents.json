@@ -1,0 +1,293 @@
+{"intents": [
+        {"tag": "amphitheatre B 001",
+         "patterns": ["Where is the medtech amphitheatre", "Where is B 001", "Where can i find the medtech amphitheatre", "Where can i find B 001", "In which floor is B 001", "In which floor is medtech amphitheatre", "Is B 001 in medtech or msb"],
+         "responses": ["The amphitheatre B 001 is located in Medtech campus right next to the security in floor 0 :) "],
+         "context_set": ""
+        },
+        {"tag": "B 100",
+         "patterns": ["Where is classroom B 100", "Where is B 100", "Where can i find the classroom B 100", "Where can i find B 100", "In which floor is B 100", "In which floor is classroom B 100", "Is B 100 in medtech or msb", "B100", "B 100", "B-100"],
+         "responses": ["B 100 is located in the medtech building ()"],
+         "context_set": ""
+        },
+        {"tag": "B 101",
+         "patterns": ["Where is classroom B 101", "Where is B 101", "Where can i find the classroom B 101", "Where can i find B 101", "In which floor is B 101", "In which floor is classroom B 101", "Is B 101 in medtech or msb", "B101", "B 101", "B-101"],
+         "responses": ["!"],
+         "context_set": ""
+        },
+        {"tag": "B 101",
+        "patterns": ["Where is classroom B 101", "Where is B 101", "Where can i find the classroom B 101", "Where can i find B 101", "In which floor is B 101", "In which floor is classroom B 101", "Is B 101 in medtech or msb", "B101", "B 101", "B-101"],
+        "responses": ["!"],
+        "context_set": ""
+        },
+        {"tag": "B 102",
+        "patterns": ["Where is classroom B 102", "Where is B 102", "Where can i find the classroom B 102", "Where can i find B 102", "In which floor is B 102", "In which floor is classroom B 102", "Is B 102 in medtech or msb", "B102", "B 102", "B-102"],
+        "responses": ["!"],
+        "context_set": ""
+         },
+        {"tag": "B 103",
+        "patterns": ["Where is classroom B 103", "Where is B 103", "Where can i find the classroom B 103", "Where can i find B 103", "In which floor is B 103", "In which floor is classroom B 103", "Is B 103 in medtech or msb", "B103", "B 103", "B-103"],
+        "responses": ["!"],
+        "context_set": ""
+        },
+        {"tag": "B 104",
+         "patterns": ["Where is classroom B 104", "Where is B 104", "Where can i find the classroom B 104", "Where can i find B 104", "In which floor is B 104", "In which floor is classroom B 104", "Is B 104 in medtech or msb", "B104", "B 104", "B-104"],
+         "responses": ["!"],
+         "context_set": ""
+         },
+         {"tag": "B 105",
+         "patterns": ["Where is classroom B 105", "Where is B 105", "Where can i find the classroom B 105", "Where can i find B 105", "In which floor is B 105", "In which floor is classroom B 105", "Is B 105 in medtech or msb", "B105", "B 105", "B-105"],
+         "responses": ["!"],
+         "context_set": ""
+         },
+         {"tag": "B 106",
+         "patterns": ["Where is classroom B 106", "Where is B 106", "Where can i find the classroom B 106", "Where can i find B 106", "In which floor is B 106", "In which floor is classroom B 106", "Is B 106 in medtech or msb", "B106", "B 106", "B-106"],
+         "responses": ["!"],
+         "context_set": ""
+         },
+         {"tag": "B 107",
+         "patterns": ["Where is classroom B 107", "Where is B 107", "Where can i find the classroom B 107", "Where can i find B 107", "In which floor is B 107", "In which floor is classroom B 107", "Is B 107 in medtech or msb", "B107", "B 107", "B-107"],
+        "responses": ["!"],
+        "context_set": ""
+         },
+        {"tag": "B 108",
+         "patterns": ["Where is classroom B 108", "Where is B 108", "Where can i find the classroom B 108", "Where can i find B 108", "In which floor is B 108", "In which floor is classroom B 108", "Is B 108 in medtech or msb", "B108", "B 108", "B-108"],
+         "responses": ["!"],
+         "context_set": ""
+        },
+        {"tag": "B 109",
+        "patterns": ["Where is classroom B 109", "Where is B 109", "Where can i find the classroom B 109", "Where can i find B 109", "In which floor is B 109", "In which floor is classroom B 109", "Is B 109 in medtech or msb", "B109", "B 109", "B-109"],
+        "responses": ["!"],
+         "context_set": ""
+        },
+         {"tag": "B 110",
+        "patterns": ["Where is classroom B 110", "Where is B 110", "Where can i find the classroom B 110", "Where can i find B 110", "In which floor is B 110", "In which floor is classroom B 110", "Is B 110 in medtech or msb", "B110", "B 110", "B-110"],
+        "responses": ["!"],
+         "context_set": ""
+         },
+         {"tag": "B 300",
+        "patterns": ["Where is classroom B 300", "Where is B 300", "Where can i find the classroom B 300", "Where can i find B 300", "In which floor is B 300", "In which floor is classroom B 300", "Is B 300 in medtech or msb", "B300", "B 300", "B-300"],
+        "responses": ["The classroom B 300 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 301",
+         "patterns": ["Where is classroom B 301", "Where is B 301", "Where can i find the classroom B 301", "Where can i find B 301", "In which floor is B 301", "In which floor is classroom B 301", "Is B 301 in medtech or msb", "B301", "B 301", "B-301"],
+         "responses": ["The classroom B 301 is located "],
+         "context_set": ""
+         },
+        {"tag": "B 302",
+        "patterns": ["Where is classroom B 302", "Where is B 302", "Where can i find the classroom B 302", "Where can i find B 302", "In which floor is B 302", "In which floor is classroom B 302", "Is B 302 in medtech or msb", "B302", "B 302", "B-302"],
+         "responses": ["The classroom B 302 is located "],
+        "context_set": ""
+         },
+         {"tag": "B 303",
+         "patterns": ["Where is classroom B 303", "Where is B 303", "Where can i find the classroom B 303", "Where can i find B 303", "In which floor is B 303", "In which floor is classroom B 303", "Is B 303 in medtech or msb", "B303", "B 303", "B-303"],
+         "responses": ["The classroom B 303 is located "],
+         "context_set": ""
+               },
+         {"tag": "B 304",
+         "patterns": ["Where is classroom B 304", "Where is B 304", "Where can i find the classroom B 304", "Where can i find B 304", "In which floor is B 304", "In which floor is classroom B 304", "Is B 304 in medtech or msb", "B304", "B 304", "B-304"],
+         "responses": ["The classroom B 304 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 305",
+         "patterns": ["Where is classroom B 305", "Where is B 305", "Where can i find the classroom B 305", "Where can i find B 305", "In which floor is B 305", "In which floor is classroom B 305", "Is B 305 in medtech or msb", "B305", "B 305", "B-305"],
+         "responses": ["The classroom B 305 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 306",
+         "patterns": ["Where is classroom B 306", "Where is B 306", "Where can i find the classroom B 306", "Where can i find B 306", "In which floor is B 306", "In which floor is classroom B 306", "Is B 306 in medtech or msb", "B306", "B 306", "B-306"],
+         "responses": ["The classroom B 306 is located "],
+         "context_set": ""
+         },
+        {"tag": "B 307",
+         "patterns": ["Where is classroom B 307", "Where is B 307", "Where can i find the classroom B 307", "Where can i find B 300", "In which floor is B 307", "In which floor is classroom B 307", "Is B 307 in medtech or msb", "B307", "B 307", "B-307"],
+         "responses": ["The classroom B 307 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 308",
+         "patterns": ["Where is classroom B 308", "Where is B 308", "Where can i find the classroom B 308", "Where can i find B 308", "In which floor is B 308", "In which floor is classroom B 308", "Is B 308 in medtech or msb", "B308", "B 308", "B-308"],
+         "responses": ["The classroom B 308 is located "],
+         "context_set": ""
+        },
+        {"tag": "B 309",
+         "patterns": ["Where is classroom B 309", "Where is B 309", "Where can i find the classroom B 309", "Where can i find B 309", "In which floor is B 309", "In which floor is classroom B 309", "Is B 309 in medtech or msb", "B309", "B 309", "B-309"],
+         "responses": ["The classroom B 309 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 310",
+        "patterns": ["Where is classroom B 310", "Where is B 310", "Where can i find the classroom B 310", "Where can i find B 310", "In which floor is B 310", "In which floor is classroom B 310", "Is B 310 in medtech or msb", "B310", "B 310", "B-310"],
+         "responses": ["The classroom B 310 is located in the medtech faculty, 3rd floor, once you enter the 3rd floor, you keep going left till you reach the end. "],
+         "context_set": ""
+        },
+         {"tag": "B 200",
+        "patterns": ["Where is classroom B 200", "Where is B 200", "Where can i find the classroom B 200", "Where can i find B 200", "In which floor is B 200", "In which floor is classroom B 200", "Is B 200 in medtech or msb", "B200", "B 200", "B-200"],
+        "responses": ["The classroom B 200 is located "],
+        "context_set": ""
+        },
+        {"tag": "B 201",
+         "patterns": ["Where is classroom B 201", "Where is B 201", "Where can i find the classroom B 201", "Where can i find B 201", "In which floor is B 201", "In which floor is classroom B 201", "Is B 201 in medtech or msb", "B201", "B 201", "B-201"],
+         "responses": ["The classroom B 201 is located "],
+         "context_set": ""
+         },
+        {"tag": "B 202",
+         "patterns": ["Where is classroom B 202", "Where is B 202", "Where can i find the classroom B 202", "Where can i find B 202", "In which floor is B 202", "In which floor is classroom B 202", "Is B 202 in medtech or msb", "B202", "B 202", "B-202"],
+         "responses": ["The classroom B 202 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 203",
+         "patterns": ["Where is classroom B 203", "Where is B 203", "Where can i find the classroom B 203", "Where can i find B 203", "In which floor is B 203", "In which floor is classroom B 203", "Is B 203 in medtech or msb", "B203", "B 203", "B-203"],
+         "responses": ["The classroom B 203 is located "],
+         "context_set": ""
+        },
+        {"tag": "B 204",
+         "patterns": ["Where is classroom B 204", "Where is B 204", "Where can i find the classroom B 204", "Where can i find B 204", "In which floor is B 204", "In which floor is classroom B 204", "Is B 204 in medtech or msb", "B204", "B 204", "B-204"],
+         "responses": ["The classroom B 204 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 205",
+         "patterns": ["Where is classroom B 205", "Where is B 205", "Where can i find the classroom B 205", "Where can i find B 205", "In which floor is B 205", "In which floor is classroom B 205", "Is B 205 in medtech or msb", "B205", "B 205", "B-205"],
+         "responses": ["The classroom B 205 is located "],
+         "context_set": ""
+        },
+        {"tag": "B 206",
+         "patterns": ["Where is classroom B 206", "Where is B 206", "Where can i find the classroom B 206", "Where can i find B 206", "In which floor is B 206", "In which floor is classroom B 206", "Is B 206 in medtech or msb", "B206", "B 206", "B-206"],
+         "responses": ["The classroom B 206 is located "],
+         "context_set": ""
+         },
+         {"tag": "B 207",
+         "patterns": ["Where is classroom B 207", "Where is B 207", "Where can i find the classroom B 207", "Where can i find B 207", "In which floor is B 207", "In which floor is classroom B 207", "Is B 207 in medtech or msb", "B207", "B 207", "B-207"],
+         "responses": ["The classroom B 207 is located "],
+         "context_set": ""
+        },
+        {"tag": "B 208",
+        "patterns": ["Where is classroom B 208", "Where is B 208", "Where can i find the classroom B 208", "Where can i find B 208", "In which floor is B 208", "In which floor is classroom B 208", "Is B 208 in medtech or msb", "B208", "B 208", "B-208"],
+        "responses": ["The classroom B 208 is located "],
+        "context_set": ""
+         },
+         {"tag": "B 209",
+          "patterns": ["Where is classroom B 209", "Where is B 209", "Where can i find the classroom B 209", "Where can i find B 209", "In which floor is B 209", "In which floor is classroom B 209", "Is B 209 in medtech or msb", "B209", "B 209", "B-209"],
+          "responses": ["The classroom B 209 is located "],
+          "context_set": ""
+         },
+         {"tag": "B 210",
+         "patterns": ["Where is classroom B 210", "Where is B 210", "Where can i find the classroom B 210", "Where can i find B 210", "In which floor is B 210", "In which floor is classroom B 210", "Is B 210 in medtech or msb", "B210", "B 210", "B-210"],
+         "responses": ["The classroom B 210 is located "],
+         "context_set": ""
+         },
+         {"tag": "MB 01",
+        "patterns": ["Where is classroom MB 01", "Where is MB 01", "Where can i find the classroom MB 01", "Where can i find MB 01", "In which floor is MB 01", "In which floor is classroom MB 01", "Is MB 01 in medtech or msb", "MB01", "MB 01", "MB-01"],
+        "responses": ["The classroom MB 01 is located "],
+        "context_set": "" 
+         },
+         {"tag": "MB 02",
+         "patterns": ["Where is classroom MB 02", "Where is MB 02", "Where can i find the classroom MB 02", "Where can i find MB 02", "In which floor is MB 02", "In which floor is classroom MB 02", "Is MB 02 in medtech or msb", "MB02", "MB 02", "MB-02"],
+         "responses": ["The classroom MB 02 is located "],
+         "context_set": "" 
+          },
+          {"tag": "MB 03",
+         "patterns": ["Where is classroom MB 03", "Where is MB 03", "Where can i find the classroom MB 03", "Where can i find MB 03", "In which floor is MB 03", "In which floor is classroom MB 03", "Is MB 03 in medtech or msb", "MB03", "MB 03", "MB-03"],
+         "responses": ["The classroom MB 03 is located "],
+         "context_set": "" 
+          },
+          {"tag": "MB 04",
+         "patterns": ["Where is classroom MB 04", "Where is MB 04", "Where can i find the classroom MB 04", "Where can i find MB 04", "In which floor is MB 04", "In which floor is classroom MB 04", "Is MB 04 in medtech or msb", "MB04", "MB 04", "MB-04"],
+         "responses": ["The classroom MB 04 is located "],
+         "context_set": "" 
+         },
+         {"tag": "MB 05",
+         "patterns": ["Where is classroom MB 05", "Where is MB 05", "Where can i find the classroom MB 05", "Where can i find MB 05", "In which floor is MB 05", "In which floor is classroom MB 05", "Is MB 05 in medtech or msb", "MB05", "MB 05", "MB-05"],
+         "responses": ["The classroom MB 05 is located "],
+         "context_set": "" 
+         },
+         {"tag": "MB 06",
+         "patterns": ["Where is classroom MB 06", "Where is MB 06", "Where can i find the classroom MB 06", "Where can i find MB 06", "In which floor is MB 06", "In which floor is classroom MB 06", "Is MB 06 in medtech or msb", "MB06", "MB 06", "MB-06"],
+         "responses": ["The classroom MB-06 is located in the mezzanine floor Medtech campus. You can acces this class if you go through the metal stairs that is located in the smoking area right infront of the medtech door. Once you reach the mezzanine floor go all the way to the left and you should find it :)"],
+         "context_set": "" 
+         },
+         {"tag": "Leila Costelle office",
+        "patterns": ["Where is Leila Costelle office", "Where is Leila Costelle ", "Where can i find Leila Costelle ", "Where can i find Leila Costelle office", "In which floor is Leila Costelle ", "In which floor is Leila Costelle office", "Is Leila Costelle office in medtech or msb", "Leila Costelle office", "Leila Costelle ", "Costelle"],
+        "responses": ["!"],
+        "context_set": "" 
+        },
+        {"tag": "Walid Ben Haj Othman office",
+        "patterns": ["Where is Walid Ben Haj Othman office", "Where is Walid Ben Haj Othman ", "Where can i find Walid Ben Haj Othman ", "Where can i find Walid Ben Haj Othman office", "In which floor is Walid Ben Haj Othman ", "In which floor is Walid Ben Haj Othman office", "Is Walid Ben Haj Othman office in medtech or msb", "Walid Ben Haj Othman office", "Walid Ben Haj Othman ", "Ben Haj Othman"],
+        "responses": ["!"],
+        "context_set": "" 
+        },
+        {"tag": "Asma Amdouni office",
+        "patterns": ["Where is Asma Amdouni office", "Where is Asma Amdouni ", "Where can i find Asma Amdouni ", "Where can i find Asma Amdouni office", "In which floor is Asma Amdouni ", "In which floor is Asma Amdouni office", "Is Asma Amdouni office in medtech or msb", "Asma Amdouni office", "Asma Amdouni ", "Amdouni"],
+        "responses": ["Asma Amdouni office is located in the Medtech campus. Once you reach the second floor and you leave the elevator, turn right and you will find it facing B200. You can contact @Asma Amdouni in MS Teams in case you did not find her in the office :)"],
+        "context_set": "" 
+         },
+         {"tag": "Amine Ben Hassouna office",
+        "patterns": ["Where is Amine Ben Hassouna office", "Where is Amine Ben Hassouna ", "Where can i find Amine Ben Hassouna ", "Where can i find Amine Ben Hassouna office", "In which floor is Amine Ben Hassouna ", "In which floor is Amine Ben Hassouna office", "Is Amine Ben Hassouna office in medtech or msb", "Amine Ben Hassouna office", "Amine Ben Hassouna ", " Ben Hassouna"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "Amine Ben Sassi office",
+        "patterns": ["Where is Amine Ben Sassi office", "Where is Amine Ben Sassi ", "Where can i find Amine Ben Sassi ", "Where can i find Amine Ben Sassi office", "In which floor is Amine Ben Sassi ", "In which floor is Amine Ben Sassi office", "Is Amine Ben Sassi office in medtech or msb", "Amine Ben Sassi office", "Amine Ben Sassi ", "Ben Sassi"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "Hager Arfaoui office",
+        "patterns": ["Where is Hager Arfaoui office", "Where is Hager Arfaoui ", "Where can i find Hager Arfaoui ", "Where can i find Hager Arfaoui office", "In which floor is Hager Arfaoui ", "In which floor is Hager Arfaoui office", "Is Hager Arfaoui office in medtech or msb", "Hager Arfaoui office", "Hager Arfaoui ", "Arfaoui"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "Khalil Amiri office",
+        "patterns": ["Where is Khalil Amiri office", "Where is Khalil Amiri ", "Where can i find Khalil Amiri ", "Where can i find Khalil Amiri office", "In which floor is Khalil Amiri ", "In which floor is Khalil Amiri office", "Is Khalil Amiri office in medtech or msb", "Khalil Amiri office", "Khalil Amiri ", "Amiri"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "Rim Gouia office",
+        "patterns": ["Where is Rim Gouia office", "Where is Rim Gouia ", "Where can i find Rim Gouia ", "Where can i find Rim Gouia office", "In which floor is Rim Gouia ", "In which floor is Rim Gouia office", "Is Rim Gouia office in medtech or msb", "Rim Gouia office", "Rim Gouia ", "Gouia"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "Noura Baccar office",
+        "patterns": ["Where is Noura Baccar office", "Where is Noura Baccar ", "Where can i find Noura Baccar ", "Where can i find Noura Baccar office", "In which floor is Noura Baccar ", "In which floor is Noura Baccar office", "Is Noura Baccar office in medtech or msb", "Noura Baccar office", "Noura Baccar ", "Baccar"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "Salma Hamza office",
+        "patterns": ["Where is Salma Hamza office", "Where is Salma Hamza ", "Where can i find Salma Hamza ", "Where can i find Salma Hamza office", "In which floor is Salma Hamza ", "In which floor is Salma Hamza office", "Is Salma Hamza office in medtech or msb", "Salma Hamza office", "Salma Hamza ", "Hamza"],
+        "responses": ["!"],
+        "context_set": "" 
+         },
+         {"tag": "SMU Libertad event",
+        "patterns": ["when is radio libertad event?", "radio libertad", "radio event"],
+        "responses": ["SMU Radio Libertad hosts an event at 11:40 am in the SMU campus open area everyday except for saturday and sunday :)"],
+        "context_set": "" 
+         },
+         {"tag": "Junior software engineering Group 1",
+        "patterns": ["junior software engineering group 1 class", "junior software engineering G1 class ", "junior software G1 schedule ", "junior software group 1 schedule"],
+        "responses": ["*C:UsershpDesktopSE - Junior G1 "],
+        "context_set": "" 
+         },
+         {"tag": "IT department ",
+        "patterns": ["Where is the IT department", "Where can i find the IT department", "In which floor is the IT department ", "the IT department", "IT department ", "IT"],
+        "responses": ["The IT department is located in the medtech building. Once you leave the escalator in FIRST floor, go left and you will notice a room covered in glass right infront of B-100 :)"],
+        "context_set": "" 
+         },
+
+        {"tag": "Google dsc club",
+         "patterns": ["how can i join google dsc club", "google dsc club", "dsc club"],
+         "responses": ["you can join the Google DSC club either by contacting Rawand Skoury in MS teams or by going to the student life office to get full guidance :) "],
+         "context_set": ""
+        },
+        {"tag": "computer engineering specialization",
+         "patterns": ["computer engineering specialization", "omputer engineering program"],
+         "responses": ["In your first year as a computer engineering student, you will study Database Management + Graph theory ..."],
+         "context_set": ""
+        },
+        {"tag": "software engineering g2 schedule",
+            "patterns": ["software engineering g2, software engineering g2 schedule"],
+            "responses": ["software engineering schedule file. "],
+            "context_set": ""},
+        {"tag": "Michigan 3 + 2 Program",
+         "patterns": ["Michigan", "Michigan 3 + 2 program", "Michigan program"],
+         "responses": ["Medtech Partnership with University of Michigan allows students with CGPA +3.0 to apply for the 3+2 Michigan program in which..."],
+         "context_set": ""
+        }
+   ]
+}
